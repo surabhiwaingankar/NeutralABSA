@@ -25,20 +25,6 @@ To achieve the study's objectives, **BERT models** were fine-tuned using **LoRA-
    - **Aspect Extraction (AE)**: SemEval 2014 datasets for Restaurants and Laptops.
    - **Aspect Polarity Classification (APC)**: SemEval 2014 datasets for Restaurants and Laptops, along with the FABSA dataset.
 
-## Paper Reference
-If you use this repository in your research, please consider citing our paper:
-```
-@article{NeutralABSA2024,
-  author    = {Your Name and Co-Authors},
-  title     = {NeutralABSA: Enhancing Neutral Sentiment Classification in Aspect Based Sentiment Analysis},
-  journal   = {Journal/Conference Name},
-  year      = {2024},
-  volume    = {XX},
-  pages     = {XX--XX},
-  doi       = {XX.XXXX/XXXXXX}
-}
-```
-
 ## Contributors
 - [Surabhi Waingankar](https://github.com/surabhiwaingankar)  
 - [Mahek Patel](https://github.com/patel-mahek)  
