@@ -1,6 +1,6 @@
 # NeutralABSA: Enhancing Neutral Sentiment Classification in Aspect Based Sentiment Analysis
 
-This repository contains the **datasets** and **Jupyter notebooks** for **aspect extraction (AE)** and **aspect polarity classification (APC)** as part of our research on improving **neutral sentiment classification** in **Aspect-Based Sentiment Analysis (ABSA)**.
+This repository contains the **datasets** and **Jupyter notebooks** for **Aspect Extraction (AE)** and **Aspect Polarity Classification (APC)** as part of our research on improving **neutral sentiment classification** in **Aspect-Based Sentiment Analysis (ABSA)**.
 
 ## Brief Description
 Aspect-Based Sentiment Analysis (ABSA) provides a detailed understanding of user opinions by identifying specific aspects within textual data and evaluating the sentiment associated with each. A key issue in this domain is the **misclassification of neutral cases**, where aspects are mentioned without a clear positive or negative sentiment.
