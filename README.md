@@ -29,9 +29,6 @@ To achieve the study's objectives, **BERT models** were fine-tuned using **LoRA-
 - [Surabhi Waingankar](https://github.com/surabhiwaingankar)  
 - [Mahek Patel](https://github.com/patel-mahek)  
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](https://mit-license.org/) file for more details.
-
 
 
 
