@@ -22,7 +22,8 @@ To achieve the study's objectives, **BERT models** were fine-tuned using **LoRA-
    - Ensure you have Jupyter Notebook or JupyterLab installed to execute the notebooks.
 
 3. **Datasets Used**
-SemEval-2015 Laptop and Restaurant
+   - SemEval-2015 Laptop
+   - SemEval-2015 Restaurant
 
 ## Contributors
 - [Surabhi Waingankar](https://github.com/surabhiwaingankar)  
